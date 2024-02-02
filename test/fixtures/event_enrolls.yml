@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  event: one
+  present_at_event: false
+  present_date: MyString
+  present_time: MyString
+
+two:
+  user: two
+  event: two
+  present_at_event: false
+  present_date: MyString
+  present_time: MyString
